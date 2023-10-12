@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-<img align="right" width="400" src="https://pbs.twimg.com/profile_images/1562845482833125376/eslLFAUL_400x400.jpg" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqib59&label=Profile%20views&color=0e75b6&style=flat" alt="saqib59" /> </p>
 
 - 🔭 I’m currently working on **Laravel & WordPress**
