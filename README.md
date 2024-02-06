@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laravel & WordPress**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on [Wordpress Gutenberg](https://github.com/WordPress/gutenberg)
 
@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://saqib59.github.io/](https://saqib59.github.io/)
 
-- ⚡ Fun fact **I don't work for money.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
