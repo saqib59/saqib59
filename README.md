@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laravel & WordPress**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on [Wordpress Gutenberg](https://github.com/WordPress/gutenberg)
 
