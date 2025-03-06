@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Laravel & WordPress**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on [Wordpress Gutenberg](https://github.com/WordPress/gutenberg)
 
-- 🤝 I’m looking for help with **Flutter Development**
+- 🤝 I’m looking for help with **Java Development**
 
 - 💬 Ask me about **Php & Wordpress**
 
