@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Php & Wordpress**
 
-- 📫 How to reach me **saqibali80400@gmail.com**
+- 📫 How to reach me **sayhello@saqibali.dev**
 
 - 📄 Know about my experiences [saqibali.dev](https://saqibali.dev/)
 
