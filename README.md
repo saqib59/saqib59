@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saqibali80400@gmail.com**
 
-- 📄 Know about my experiences [https://saqib59.github.io/](https://saqib59.github.io/)
+- 📄 Know about my experiences [saqibali.dev](https://saqibali.dev/)
 
 
 <h3 align="left">Connect with me:</h3>
